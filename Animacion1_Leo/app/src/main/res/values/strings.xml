@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Animacion1</string>
+    <string name="descripcion1">Descripcion 1</string> <!--STRING DE DESCRIPCION PARA EL IMAGE BUTTON Y IMAGEVIEW -->
+    <string name="descripcion2">Descripcion 2</string>
+
+</resources>
